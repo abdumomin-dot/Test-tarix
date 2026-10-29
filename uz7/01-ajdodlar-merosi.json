@@ -1,0 +1,212 @@
+[
+  {
+    "id": "UZ7-01-001",
+    "q": "Darslikda ilk o‘rta asrlar qaysi asrlar bilan belgilanadi?",
+    "a": [
+      "IV–VIII asrlar",
+      "IX–XV asrlar",
+      "XVI–XIX asrlar",
+      "I–III asrlar"
+    ],
+    "cor": 0,
+    "ex": "Darslikda ilk o‘rta asrlar IV–VIII asrlar deb berilgan.",
+    "grade": 7,
+    "subject": "uzbekistan_history",
+    "topic": "Ajdodlarimizning ma’naviy qadriyatlari – jahon sivilizatsiyasi asoslaridan biri",
+    "difficulty": 2,
+    "type": "single_choice",
+    "source": {
+      "book": "O‘zbekiston tarixi (IV asrdan – XIII asr boshlarigacha), 7-sinf, 2022",
+      "page": 6
+    }
+  },
+  {
+    "id": "UZ7-01-002",
+    "q": "Rivojlangan o‘rta asrlar qaysi davrni qamrab oladi?",
+    "a": [
+      "IV–VIII asrlar",
+      "IX–XV asrlar",
+      "XVI–XIX asrlar",
+      "XIII–XIV asrlar"
+    ],
+    "cor": 1,
+    "ex": "Darslik rivojlangan o‘rta asrlarni IX–XV asrlar deb belgilaydi.",
+    "grade": 7,
+    "subject": "uzbekistan_history",
+    "topic": "Ajdodlarimizning ma’naviy qadriyatlari – jahon sivilizatsiyasi asoslaridan biri",
+    "difficulty": 2,
+    "type": "single_choice",
+    "source": {
+      "book": "O‘zbekiston tarixi (IV asrdan – XIII asr boshlarigacha), 7-sinf, 2022",
+      "page": 6
+    }
+  },
+  {
+    "id": "UZ7-01-003",
+    "q": "So‘nggi o‘rta asrlar qaysi asrlarga to‘g‘ri keladi?",
+    "a": [
+      "IV–VIII asrlar",
+      "IX–XV asrlar",
+      "XVI–XIX asrlar",
+      "X–XII asrlar"
+    ],
+    "cor": 2,
+    "ex": "Darslikdagi tasnifda so‘nggi o‘rta asrlar XVI–XIX asrlardir.",
+    "grade": 7,
+    "subject": "uzbekistan_history",
+    "topic": "Ajdodlarimizning ma’naviy qadriyatlari – jahon sivilizatsiyasi asoslaridan biri",
+    "difficulty": 2,
+    "type": "single_choice",
+    "source": {
+      "book": "O‘zbekiston tarixi (IV asrdan – XIII asr boshlarigacha), 7-sinf, 2022",
+      "page": 6
+    }
+  },
+  {
+    "id": "UZ7-01-004",
+    "q": "Darslikda Yevropada o‘rta asrlarning boshlanishi qaysi voqea bilan bog‘lanadi?",
+    "a": [
+      "Turk xoqonligi tashkil topishi",
+      "Rim imperiyasining qulashi",
+      "Somoniylar davlati tashkil topishi",
+      "Arablarning Movarounnahrga yurishi"
+    ],
+    "cor": 1,
+    "ex": "Darslik Yevropada o‘rta asrlar boshlanishini Rim imperiyasining qulashi bilan bog‘laydi.",
+    "grade": 7,
+    "subject": "uzbekistan_history",
+    "topic": "Ajdodlarimizning ma’naviy qadriyatlari – jahon sivilizatsiyasi asoslaridan biri",
+    "difficulty": 2,
+    "type": "single_choice",
+    "source": {
+      "book": "O‘zbekiston tarixi (IV asrdan – XIII asr boshlarigacha), 7-sinf, 2022",
+      "page": 6
+    }
+  },
+  {
+    "id": "UZ7-01-005",
+    "q": "Darslik Rim imperiyasining qulashini qaysi yil bilan sanaydi?",
+    "a": [
+      "395-yil",
+      "476-yil",
+      "552-yil",
+      "651-yil"
+    ],
+    "cor": 1,
+    "ex": "Darslikda Rim imperiyasining qulashi 476-yil deb ko‘rsatilgan.",
+    "grade": 7,
+    "subject": "uzbekistan_history",
+    "topic": "Ajdodlarimizning ma’naviy qadriyatlari – jahon sivilizatsiyasi asoslaridan biri",
+    "difficulty": 2,
+    "type": "single_choice",
+    "source": {
+      "book": "O‘zbekiston tarixi (IV asrdan – XIII asr boshlarigacha), 7-sinf, 2022",
+      "page": 6
+    }
+  },
+  {
+    "id": "UZ7-01-006",
+    "q": "Turon tarixida o‘rta asrlar boshlanishi qaysi qabila uyushmalarining paydo bo‘lishi bilan bog‘langan?",
+    "a": [
+      "Xioniylar, kidariylar va eftaliylar",
+      "Somoniylar, qoraxoniylar va saljuqiylar",
+      "Temuriylar va shayboniylar",
+      "Qarluqlar, o‘g‘uzlar va mo‘g‘ullar"
+    ],
+    "cor": 0,
+    "ex": "Darslik IV asr oxiri–V asr o‘rtalarida xioniylar, kidariylar va eftaliylar paydo bo‘lishini qayd etadi.",
+    "grade": 7,
+    "subject": "uzbekistan_history",
+    "topic": "Ajdodlarimizning ma’naviy qadriyatlari – jahon sivilizatsiyasi asoslaridan biri",
+    "difficulty": 2,
+    "type": "single_choice",
+    "source": {
+      "book": "O‘zbekiston tarixi (IV asrdan – XIII asr boshlarigacha), 7-sinf, 2022",
+      "page": 6
+    }
+  },
+  {
+    "id": "UZ7-01-007",
+    "q": "Arablar davridan keyin yurtimiz hududi qaysi ikki nom bilan atalgan?",
+    "a": [
+      "Xuroson va Movarounnahr",
+      "Sug‘diyona va Choch",
+      "Baqtriya va Marg‘iyona",
+      "Turkiston va Yettisuv"
+    ],
+    "cor": 0,
+    "ex": "Darslikda «Movarounnahr» va «Xuroson» nomlari keltirilgan.",
+    "grade": 7,
+    "subject": "uzbekistan_history",
+    "topic": "Ajdodlarimizning ma’naviy qadriyatlari – jahon sivilizatsiyasi asoslaridan biri",
+    "difficulty": 2,
+    "type": "single_choice",
+    "source": {
+      "book": "O‘zbekiston tarixi (IV asrdan – XIII asr boshlarigacha), 7-sinf, 2022",
+      "page": 6
+    }
+  },
+  {
+    "id": "UZ7-01-008",
+    "q": "«O‘rta Osiyo» va «Markaziy Osiyo» atamalarini XVIII–XIX asrlarda kimlar qo‘llagan?",
+    "a": [
+      "Arab xalifalari",
+      "G‘arb olimlari va sayyohlari",
+      "Turk xoqonlari",
+      "Somoniy amirlari"
+    ],
+    "cor": 1,
+    "ex": "Darslik bu nomlarni XVIII–XIX asr g‘arb olimlari va sayyohlari qo‘llaganini aytadi.",
+    "grade": 7,
+    "subject": "uzbekistan_history",
+    "topic": "Ajdodlarimizning ma’naviy qadriyatlari – jahon sivilizatsiyasi asoslaridan biri",
+    "difficulty": 2,
+    "type": "single_choice",
+    "source": {
+      "book": "O‘zbekiston tarixi (IV asrdan – XIII asr boshlarigacha), 7-sinf, 2022",
+      "page": 6
+    }
+  },
+  {
+    "id": "UZ7-01-009",
+    "q": "Darslikda IX–XII asrlar qanday davr deb ataladi?",
+    "a": [
+      "Birinchi renessans",
+      "Ikkinchi renessans",
+      "Ilk o‘rta asrlar",
+      "So‘nggi o‘rta asrlar"
+    ],
+    "cor": 0,
+    "ex": "Darslik IX–XII asrlarni birinchi renessans deb ko‘rsatadi.",
+    "grade": 7,
+    "subject": "uzbekistan_history",
+    "topic": "Ajdodlarimizning ma’naviy qadriyatlari – jahon sivilizatsiyasi asoslaridan biri",
+    "difficulty": 2,
+    "type": "single_choice",
+    "source": {
+      "book": "O‘zbekiston tarixi (IV asrdan – XIII asr boshlarigacha), 7-sinf, 2022",
+      "page": 7
+    }
+  },
+  {
+    "id": "UZ7-01-010",
+    "q": "Darslikda XIV–XV asrlar qanday nomlangan?",
+    "a": [
+      "Birinchi renessans",
+      "Ikkinchi renessans",
+      "Qadimgi davr",
+      "Ilk o‘rta asrlar"
+    ],
+    "cor": 1,
+    "ex": "Darslik XIV–XV asrlarni ikkinchi renessans deb belgilaydi.",
+    "grade": 7,
+    "subject": "uzbekistan_history",
+    "topic": "Ajdodlarimizning ma’naviy qadriyatlari – jahon sivilizatsiyasi asoslaridan biri",
+    "difficulty": 2,
+    "type": "single_choice",
+    "source": {
+      "book": "O‘zbekiston tarixi (IV asrdan – XIII asr boshlarigacha), 7-sinf, 2022",
+      "page": 7
+    }
+  }
+]

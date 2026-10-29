@@ -1,0 +1,212 @@
+[
+  {
+    "id": "UZ7-04-001",
+    "q": "Xioniylar IV asrda dastlab qaysi vohani egallagan?",
+    "a": [
+      "Zarafshon vohasini",
+      "Farg‘ona vodiysini",
+      "Ili vodiysini",
+      "Nil vodiysini"
+    ],
+    "cor": 0,
+    "ex": "Darslikda xioniylar dastlab Zarafshon vohasini egallagani yozilgan.",
+    "grade": 7,
+    "subject": "uzbekistan_history",
+    "topic": "IV–V asrlarda xioniylar va kidariylar",
+    "difficulty": 2,
+    "type": "single_choice",
+    "source": {
+      "book": "O‘zbekiston tarixi (IV asrdan – XIII asr boshlarigacha), 7-sinf, 2022",
+      "page": 15
+    }
+  },
+  {
+    "id": "UZ7-04-002",
+    "q": "Xioniylar janubga yurib, qaysi davlat hududida hukmronlik qilgan?",
+    "a": [
+      "Kushon podsholigi hududida",
+      "Rim imperiyasi hududida",
+      "Vizantiya hududida",
+      "Xitoy Xan sulolasi hududida"
+    ],
+    "cor": 0,
+    "ex": "Darslik xioniylarning Kushon podsholigi hududida hukmronlik qilganini aytadi.",
+    "grade": 7,
+    "subject": "uzbekistan_history",
+    "topic": "IV–V asrlarda xioniylar va kidariylar",
+    "difficulty": 2,
+    "type": "single_choice",
+    "source": {
+      "book": "O‘zbekiston tarixi (IV asrdan – XIII asr boshlarigacha), 7-sinf, 2022",
+      "page": 15
+    }
+  },
+  {
+    "id": "UZ7-04-003",
+    "q": "Xioniylar davlatining markazi qaysi hudud bo‘lgan?",
+    "a": [
+      "Toxariston",
+      "Choch",
+      "Xorazm",
+      "Yettisuv"
+    ],
+    "cor": 0,
+    "ex": "Darslik xioniylar davlatining markazi Toxariston bo‘lganini qayd etadi.",
+    "grade": 7,
+    "subject": "uzbekistan_history",
+    "topic": "IV–V asrlarda xioniylar va kidariylar",
+    "difficulty": 2,
+    "type": "single_choice",
+    "source": {
+      "book": "O‘zbekiston tarixi (IV asrdan – XIII asr boshlarigacha), 7-sinf, 2022",
+      "page": 15
+    }
+  },
+  {
+    "id": "UZ7-04-004",
+    "q": "Ayrim tadqiqotchilar xioniylarning asl vatanini qayerda deb hisoblaydi?",
+    "a": [
+      "Orol dengizi bo‘yida",
+      "Qora dengiz bo‘yida",
+      "Arabiston janubida",
+      "Hind okeani sohilida"
+    ],
+    "cor": 0,
+    "ex": "Darslik ayrim tadqiqotchilar Orol dengizi bo‘yini xioniylarning asl vatani deb hisoblashini aytadi.",
+    "grade": 7,
+    "subject": "uzbekistan_history",
+    "topic": "IV–V asrlarda xioniylar va kidariylar",
+    "difficulty": 2,
+    "type": "single_choice",
+    "source": {
+      "book": "O‘zbekiston tarixi (IV asrdan – XIII asr boshlarigacha), 7-sinf, 2022",
+      "page": 15
+    }
+  },
+  {
+    "id": "UZ7-04-005",
+    "q": "V asrning 20-yillarida Xorazm va Amudaryo havzasiga kirib kelgan ko‘chmanchilar kimlar edi?",
+    "a": [
+      "Toxarlar",
+      "Qarluqlar",
+      "O‘g‘uzlar",
+      "Saklar"
+    ],
+    "cor": 0,
+    "ex": "Darslikda V asrning 20-yillarida toxarlar kirib kelgani yozilgan.",
+    "grade": 7,
+    "subject": "uzbekistan_history",
+    "topic": "IV–V asrlarda xioniylar va kidariylar",
+    "difficulty": 2,
+    "type": "single_choice",
+    "source": {
+      "book": "O‘zbekiston tarixi (IV asrdan – XIII asr boshlarigacha), 7-sinf, 2022",
+      "page": 16
+    }
+  },
+  {
+    "id": "UZ7-04-006",
+    "q": "Kidariylar nomi qaysi hukmdor nomidan kelib chiqqan?",
+    "a": [
+      "Kidar",
+      "Bumin",
+      "Afrig‘",
+      "Vaxshunvar"
+    ],
+    "cor": 0,
+    "ex": "Toxariylar Kidar ismli hukmdor boshchiligida bo‘lgani uchun kidariylar deb atalgan.",
+    "grade": 7,
+    "subject": "uzbekistan_history",
+    "topic": "IV–V asrlarda xioniylar va kidariylar",
+    "difficulty": 2,
+    "type": "single_choice",
+    "source": {
+      "book": "O‘zbekiston tarixi (IV asrdan – XIII asr boshlarigacha), 7-sinf, 2022",
+      "page": 16
+    }
+  },
+  {
+    "id": "UZ7-04-007",
+    "q": "Kidariylar davlatining poytaxti qaysi shahar bo‘lgan?",
+    "a": [
+      "Balx",
+      "Kat",
+      "Samarqand",
+      "Poykand"
+    ],
+    "cor": 0,
+    "ex": "Darslikda Balx yangi kidariylar davlatining poytaxti bo‘lgani aytiladi.",
+    "grade": 7,
+    "subject": "uzbekistan_history",
+    "topic": "IV–V asrlarda xioniylar va kidariylar",
+    "difficulty": 2,
+    "type": "single_choice",
+    "source": {
+      "book": "O‘zbekiston tarixi (IV asrdan – XIII asr boshlarigacha), 7-sinf, 2022",
+      "page": 16
+    }
+  },
+  {
+    "id": "UZ7-04-008",
+    "q": "Kidariylar dastlab qayerda yashagan?",
+    "a": [
+      "Sharqiy Turkistonda",
+      "Misrda",
+      "Italiyada",
+      "Arabiston janubida"
+    ],
+    "cor": 0,
+    "ex": "Darslikda kidariylarning dastlab Sharqiy Turkistonda yashagani qayd etiladi.",
+    "grade": 7,
+    "subject": "uzbekistan_history",
+    "topic": "IV–V asrlarda xioniylar va kidariylar",
+    "difficulty": 2,
+    "type": "single_choice",
+    "source": {
+      "book": "O‘zbekiston tarixi (IV asrdan – XIII asr boshlarigacha), 7-sinf, 2022",
+      "page": 16
+    }
+  },
+  {
+    "id": "UZ7-04-009",
+    "q": "456-yilda kidariylar kimlar bilan to‘qnashuvda mag‘lub bo‘lgan?",
+    "a": [
+      "Eron sosoniylari bilan",
+      "Vizantiyaliklar bilan",
+      "G‘arbiy turklar bilan",
+      "Arab xalifaligi bilan"
+    ],
+    "cor": 0,
+    "ex": "Darslikda 456-yilgi to‘qnashuvda kidariylar sosoniylardan yengilgani ko‘rsatilgan.",
+    "grade": 7,
+    "subject": "uzbekistan_history",
+    "topic": "IV–V asrlarda xioniylar va kidariylar",
+    "difficulty": 2,
+    "type": "single_choice",
+    "source": {
+      "book": "O‘zbekiston tarixi (IV asrdan – XIII asr boshlarigacha), 7-sinf, 2022",
+      "page": 17
+    }
+  },
+  {
+    "id": "UZ7-04-010",
+    "q": "Keyinchalik eftaliylar bilan to‘qnashgan kidariylar qayerga chekingan?",
+    "a": [
+      "Shimoliy Hindistonga",
+      "Xorazmga",
+      "Oltoyga",
+      "Misrga"
+    ],
+    "cor": 0,
+    "ex": "Darslikda kidariylar Shimoliy Hindistonga chekingani aytiladi.",
+    "grade": 7,
+    "subject": "uzbekistan_history",
+    "topic": "IV–V asrlarda xioniylar va kidariylar",
+    "difficulty": 2,
+    "type": "single_choice",
+    "source": {
+      "book": "O‘zbekiston tarixi (IV asrdan – XIII asr boshlarigacha), 7-sinf, 2022",
+      "page": 17
+    }
+  }
+]

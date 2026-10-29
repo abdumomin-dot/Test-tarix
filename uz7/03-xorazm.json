@@ -1,0 +1,212 @@
+[
+  {
+    "id": "UZ7-03-001",
+    "q": "Xorazm vohasini suv bilan ta’minlagan asosiy daryo qaysi?",
+    "a": [
+      "Amudaryo",
+      "Sirdaryo",
+      "Zarafshon",
+      "Qashqadaryo"
+    ],
+    "cor": 0,
+    "ex": "Darslik Amudaryo Xorazm vohasini suv bilan ta’minlaganini aytadi.",
+    "grade": 7,
+    "subject": "uzbekistan_history",
+    "topic": "IV–VII asrlarda Xorazm",
+    "difficulty": 2,
+    "type": "single_choice",
+    "source": {
+      "book": "O‘zbekiston tarixi (IV asrdan – XIII asr boshlarigacha), 7-sinf, 2022",
+      "page": 10
+    }
+  },
+  {
+    "id": "UZ7-03-002",
+    "q": "Amudaryo qayerdagi muzliklardan boshlanadi?",
+    "a": [
+      "Hindiqushning shimoliy yonbag‘irlaridan",
+      "Oltoy tog‘laridan",
+      "Ural tog‘laridan",
+      "Kavkaz tog‘laridan"
+    ],
+    "cor": 0,
+    "ex": "Darslik Amudaryoning boshlanishini Hindiqushning shimoliy yonbag‘irlaridagi muzliklar bilan bog‘laydi.",
+    "grade": 7,
+    "subject": "uzbekistan_history",
+    "topic": "IV–VII asrlarda Xorazm",
+    "difficulty": 2,
+    "type": "single_choice",
+    "source": {
+      "book": "O‘zbekiston tarixi (IV asrdan – XIII asr boshlarigacha), 7-sinf, 2022",
+      "page": 10
+    }
+  },
+  {
+    "id": "UZ7-03-003",
+    "q": "Xorazmda qaysi xo‘jalik sohalari rivojlangan?",
+    "a": [
+      "Sug‘orma dehqonchilik, hunarmandchilik, chorvachilik va savdo",
+      "Faqat dengizchilik",
+      "Faqat ovchilik",
+      "Faqat konchilik"
+    ],
+    "cor": 0,
+    "ex": "Darslik ushbu sohalarning rivojlanganini qayd etadi.",
+    "grade": 7,
+    "subject": "uzbekistan_history",
+    "topic": "IV–VII asrlarda Xorazm",
+    "difficulty": 2,
+    "type": "single_choice",
+    "source": {
+      "book": "O‘zbekiston tarixi (IV asrdan – XIII asr boshlarigacha), 7-sinf, 2022",
+      "page": 11
+    }
+  },
+  {
+    "id": "UZ7-03-004",
+    "q": "Xorazm qaysi hududlar bilan madaniy-savdo aloqalarini yo‘lga qo‘ygan?",
+    "a": [
+      "Xuroson, Eron, Vizantiya va turklar bilan",
+      "Faqat Rim bilan",
+      "Faqat Yaponiya bilan",
+      "Faqat Misr bilan"
+    ],
+    "cor": 0,
+    "ex": "Darslik Xorazmning Xuroson, Eron, Vizantiya va turklar bilan aloqalarini sanaydi.",
+    "grade": 7,
+    "subject": "uzbekistan_history",
+    "topic": "IV–VII asrlarda Xorazm",
+    "difficulty": 2,
+    "type": "single_choice",
+    "source": {
+      "book": "O‘zbekiston tarixi (IV asrdan – XIII asr boshlarigacha), 7-sinf, 2022",
+      "page": 11
+    }
+  },
+  {
+    "id": "UZ7-03-005",
+    "q": "Xorazm xo‘jalik turmushida qaysi mahsulotlar alohida o‘rin tutgan?",
+    "a": [
+      "Baliq, qovun, qovoq, yovvoyi jiyda va tut",
+      "Faqat uzum va zaytun",
+      "Faqat guruch va choy",
+      "Faqat bug‘doy va shakarqamish"
+    ],
+    "cor": 0,
+    "ex": "Darslikda shu mahsulotlar alohida qayd etilgan.",
+    "grade": 7,
+    "subject": "uzbekistan_history",
+    "topic": "IV–VII asrlarda Xorazm",
+    "difficulty": 2,
+    "type": "single_choice",
+    "source": {
+      "book": "O‘zbekiston tarixi (IV asrdan – XIII asr boshlarigacha), 7-sinf, 2022",
+      "page": 11
+    }
+  },
+  {
+    "id": "UZ7-03-006",
+    "q": "Xorazm poytaxti bilan bog‘liq mustahkam mudofaa inshooti qaysi?",
+    "a": [
+      "Tuproqqal’a",
+      "Afrosiyob",
+      "Zartepa",
+      "Binkat"
+    ],
+    "cor": 0,
+    "ex": "Darslik Tuproqqal’ani Xorazm poytaxti bilan bog‘liq mudofaa inshooti sifatida tasvirlaydi.",
+    "grade": 7,
+    "subject": "uzbekistan_history",
+    "topic": "IV–VII asrlarda Xorazm",
+    "difficulty": 2,
+    "type": "single_choice",
+    "source": {
+      "book": "O‘zbekiston tarixi (IV asrdan – XIII asr boshlarigacha), 7-sinf, 2022",
+      "page": 12
+    }
+  },
+  {
+    "id": "UZ7-03-007",
+    "q": "Milodiy 305-yilda Afrig‘ qarorgohini qaysi shaharga ko‘chirgan?",
+    "a": [
+      "Kat",
+      "Poykand",
+      "Buxoro",
+      "Termiz"
+    ],
+    "cor": 0,
+    "ex": "Darslikda Afrig‘ 305-yilda qarorgohini Kat shahriga ko‘chirgani aytiladi.",
+    "grade": 7,
+    "subject": "uzbekistan_history",
+    "topic": "IV–VII asrlarda Xorazm",
+    "difficulty": 2,
+    "type": "single_choice",
+    "source": {
+      "book": "O‘zbekiston tarixi (IV asrdan – XIII asr boshlarigacha), 7-sinf, 2022",
+      "page": 12
+    }
+  },
+  {
+    "id": "UZ7-03-008",
+    "q": "Afrig‘iylar tangalarida qanday tasvirlar bo‘lgan?",
+    "a": [
+      "Old tomonida shoh, orqa tomonida suvoriy",
+      "Faqat kemalar",
+      "Faqat yozuvlar",
+      "Old tomonida kamonchi, orqa tomonida sher"
+    ],
+    "cor": 0,
+    "ex": "Darslik Afrig‘iy tangalarida shoh va suvoriy tasvirlari bo‘lganini qayd etadi.",
+    "grade": 7,
+    "subject": "uzbekistan_history",
+    "topic": "IV–VII asrlarda Xorazm",
+    "difficulty": 2,
+    "type": "single_choice",
+    "source": {
+      "book": "O‘zbekiston tarixi (IV asrdan – XIII asr boshlarigacha), 7-sinf, 2022",
+      "page": 12
+    }
+  },
+  {
+    "id": "UZ7-03-009",
+    "q": "Xorazmda san’atning qaysi turi alohida rivojlangan deb qayd etiladi?",
+    "a": [
+      "Haykaltaroshlik",
+      "Fotografiya",
+      "Bosmaxonachilik",
+      "Kino san’ati"
+    ],
+    "cor": 0,
+    "ex": "Darslik Xorazmda san’at, xususan haykaltaroshlik rivojlanganini aytadi.",
+    "grade": 7,
+    "subject": "uzbekistan_history",
+    "topic": "IV–VII asrlarda Xorazm",
+    "difficulty": 2,
+    "type": "single_choice",
+    "source": {
+      "book": "O‘zbekiston tarixi (IV asrdan – XIII asr boshlarigacha), 7-sinf, 2022",
+      "page": 11
+    }
+  },
+  {
+    "id": "UZ7-03-010",
+    "q": "Darslikda Xorazm poytaxti shahri umumiy maydoni taxminan qancha deb berilgan?",
+    "a": [
+      "20–25 gektar",
+      "2–5 gektar",
+      "50–60 gektar",
+      "100 gektar"
+    ],
+    "cor": 0,
+    "ex": "Darslikda poytaxt shaharning umumiy maydoni 20–25 gektar deb berilgan.",
+    "grade": 7,
+    "subject": "uzbekistan_history",
+    "topic": "IV–VII asrlarda Xorazm",
+    "difficulty": 2,
+    "type": "single_choice",
+    "source": {
+      "book": "O‘zbekiston tarixi (IV asrdan – XIII asr boshlarigacha), 7-sinf, 2022",
+      "page": 12
+    }
+  }
+]

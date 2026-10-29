@@ -1,0 +1,212 @@
+[
+  {
+    "id": "UZ7-02-001",
+    "q": "Qishloq xo‘jaligi rivojiga ta’sir ko‘rsatgan suv inshootlari qaysilar?",
+    "a": [
+      "Suv tegirmoni, chig‘ir va charxpalak",
+      "Ko‘prik, mayoq va port",
+      "Minora, rabod va karvonsaroy",
+      "Faqat to‘g‘on va kema"
+    ],
+    "cor": 0,
+    "ex": "Darslik suv tegirmoni, chig‘ir va charxpalakni tilga oladi.",
+    "grade": 7,
+    "subject": "uzbekistan_history",
+    "topic": "IV–VII asrlarda mamlakatimiz xalqlarining turmush tarzi",
+    "difficulty": 2,
+    "type": "single_choice",
+    "source": {
+      "book": "O‘zbekiston tarixi (IV asrdan – XIII asr boshlarigacha), 7-sinf, 2022",
+      "page": 8
+    }
+  },
+  {
+    "id": "UZ7-02-002",
+    "q": "Shaharlar qaysi sohalarning markaziga aylangan?",
+    "a": [
+      "Faqat harbiy yurishlarning",
+      "Hunarmandchilik, savdo-sotiq va madaniy hayotning",
+      "Faqat chorvachilikning",
+      "Faqat diniy marosimlarning"
+    ],
+    "cor": 1,
+    "ex": "Darslik shaharlarni hunarmandchilik, savdo-sotiq va madaniy hayot markazlari deb ta’riflaydi.",
+    "grade": 7,
+    "subject": "uzbekistan_history",
+    "topic": "IV–VII asrlarda mamlakatimiz xalqlarining turmush tarzi",
+    "difficulty": 2,
+    "type": "single_choice",
+    "source": {
+      "book": "O‘zbekiston tarixi (IV asrdan – XIII asr boshlarigacha), 7-sinf, 2022",
+      "page": 8
+    }
+  },
+  {
+    "id": "UZ7-02-003",
+    "q": "Ilk o‘rta asrlarda mulkdor qishloq hokimlari qanday atalgan?",
+    "a": [
+      "Kadivarlar",
+      "Kashovarzlar",
+      "Dehqonlar",
+      "Chokarlar"
+    ],
+    "cor": 2,
+    "ex": "Darslik dehqonlarni mulkdor tabaqa va qishloq hokimlari deb izohlaydi.",
+    "grade": 7,
+    "subject": "uzbekistan_history",
+    "topic": "IV–VII asrlarda mamlakatimiz xalqlarining turmush tarzi",
+    "difficulty": 2,
+    "type": "single_choice",
+    "source": {
+      "book": "O‘zbekiston tarixi (IV asrdan – XIII asr boshlarigacha), 7-sinf, 2022",
+      "page": 9
+    }
+  },
+  {
+    "id": "UZ7-02-004",
+    "q": "Kashovarzlar kimlar edi?",
+    "a": [
+      "Ziroatchi oddiy qo‘shchilar",
+      "Harbiy posbonlar",
+      "Saroy kotiblari",
+      "Savdo bojini yig‘uvchilar"
+    ],
+    "cor": 0,
+    "ex": "Darslikda kashovarzlar ziroatchi oddiy qo‘shchilar deb ta’riflanadi.",
+    "grade": 7,
+    "subject": "uzbekistan_history",
+    "topic": "IV–VII asrlarda mamlakatimiz xalqlarining turmush tarzi",
+    "difficulty": 2,
+    "type": "single_choice",
+    "source": {
+      "book": "O‘zbekiston tarixi (IV asrdan – XIII asr boshlarigacha), 7-sinf, 2022",
+      "page": 9
+    }
+  },
+  {
+    "id": "UZ7-02-005",
+    "q": "Kadivarlar qanday qatlam bo‘lgan?",
+    "a": [
+      "Dehqonlarga qaram aholi",
+      "Mustaqil hukmdorlar",
+      "Faqat savdogarlar",
+      "Xorijiy elchilar"
+    ],
+    "cor": 0,
+    "ex": "Kadivarlar dehqon yerlarida ishlagan qaram aholi sifatida berilgan.",
+    "grade": 7,
+    "subject": "uzbekistan_history",
+    "topic": "IV–VII asrlarda mamlakatimiz xalqlarining turmush tarzi",
+    "difficulty": 2,
+    "type": "single_choice",
+    "source": {
+      "book": "O‘zbekiston tarixi (IV asrdan – XIII asr boshlarigacha), 7-sinf, 2022",
+      "page": 9
+    }
+  },
+  {
+    "id": "UZ7-02-006",
+    "q": "Chokarlarning vazifasi nima bo‘lgan?",
+    "a": [
+      "Dehqon mulkini qo‘riqlash",
+      "Tangalar zarb qilish",
+      "Suvni taqsimlash",
+      "Tashqi savdoni boshqarish"
+    ],
+    "cor": 0,
+    "ex": "Darslik chokarlarni dehqon mulkini qo‘riqlovchi harbiy posbonlar deb izohlaydi.",
+    "grade": 7,
+    "subject": "uzbekistan_history",
+    "topic": "IV–VII asrlarda mamlakatimiz xalqlarining turmush tarzi",
+    "difficulty": 2,
+    "type": "single_choice",
+    "source": {
+      "book": "O‘zbekiston tarixi (IV asrdan – XIII asr boshlarigacha), 7-sinf, 2022",
+      "page": 9
+    }
+  },
+  {
+    "id": "UZ7-02-007",
+    "q": "VI asrda unumdor yerlar va suv taqsimoti kimlarning nazoratiga o‘tgan?",
+    "a": [
+      "Qabila boshliqlari va ishboshilar",
+      "Faqat xorijiy savdogarlar",
+      "Faqat hunarmandlar",
+      "Shahar darvozabonlari"
+    ],
+    "cor": 0,
+    "ex": "Bu nazorat qabila boshliqlari va ishboshilar qo‘lida bo‘lgan.",
+    "grade": 7,
+    "subject": "uzbekistan_history",
+    "topic": "IV–VII asrlarda mamlakatimiz xalqlarining turmush tarzi",
+    "difficulty": 2,
+    "type": "single_choice",
+    "source": {
+      "book": "O‘zbekiston tarixi (IV asrdan – XIII asr boshlarigacha), 7-sinf, 2022",
+      "page": 9
+    }
+  },
+  {
+    "id": "UZ7-02-008",
+    "q": "Yer va suv ustidan nazorat dehqonlarga qanday imkon bergan?",
+    "a": [
+      "Qishloq aholisi ustidan ta’sir o‘tkazish",
+      "Dengiz savdosini to‘xtatish",
+      "Tangalarni bekor qilish",
+      "Shaharlarni tark etish"
+    ],
+    "cor": 0,
+    "ex": "Yer va suv taqsimotini nazorat qilish ziroatchi aholiga ta’sir o‘tkazish imkonini bergan.",
+    "grade": 7,
+    "subject": "uzbekistan_history",
+    "topic": "IV–VII asrlarda mamlakatimiz xalqlarining turmush tarzi",
+    "difficulty": 2,
+    "type": "single_choice",
+    "source": {
+      "book": "O‘zbekiston tarixi (IV asrdan – XIII asr boshlarigacha), 7-sinf, 2022",
+      "page": 9
+    }
+  },
+  {
+    "id": "UZ7-02-009",
+    "q": "Darslikda qaysi hududlar dehqonchilik viloyatlari sifatida sanalgan?",
+    "a": [
+      "Sug‘diyona, Marg‘iyona, Toxariston, Xorazm, Choch va Farg‘ona",
+      "Faqat Xorazm va Misr",
+      "Rim, Galliya va Britaniya",
+      "Hindiston, Xitoy va Yaponiya"
+    ],
+    "cor": 0,
+    "ex": "Darslikda aynan shu viloyatlar sanab o‘tilgan.",
+    "grade": 7,
+    "subject": "uzbekistan_history",
+    "topic": "IV–VII asrlarda mamlakatimiz xalqlarining turmush tarzi",
+    "difficulty": 2,
+    "type": "single_choice",
+    "source": {
+      "book": "O‘zbekiston tarixi (IV asrdan – XIII asr boshlarigacha), 7-sinf, 2022",
+      "page": 9
+    }
+  },
+  {
+    "id": "UZ7-02-010",
+    "q": "«Ziroatchi» so‘zi qanday izohlangan?",
+    "a": [
+      "Hosil yetishtiruvchi, qo‘shchi",
+      "Harbiy boshliq",
+      "Soliq yig‘uvchi",
+      "Shahar hokimi"
+    ],
+    "cor": 0,
+    "ex": "Darslikda ziroatchi hosil yetishtiruvchi, qo‘shchi sifatida izohlangan.",
+    "grade": 7,
+    "subject": "uzbekistan_history",
+    "topic": "IV–VII asrlarda mamlakatimiz xalqlarining turmush tarzi",
+    "difficulty": 2,
+    "type": "single_choice",
+    "source": {
+      "book": "O‘zbekiston tarixi (IV asrdan – XIII asr boshlarigacha), 7-sinf, 2022",
+      "page": 9
+    }
+  }
+]

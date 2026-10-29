@@ -1,0 +1,317 @@
+[
+  {
+    "id": "UZ7-05-001",
+    "q": "Darslikka ko‘ra, eftaliylar qachon Turon hududida hukmronlik qilgan?",
+    "a": [
+      "V–VI asrlarda",
+      "I–II asrlarda",
+      "IX–X asrlarda",
+      "XIII–XIV asrlarda"
+    ],
+    "cor": 0,
+    "ex": "Darslikda Eftalon sulolasiga mansub qabila V–VI asrlarda hukmronlik qilgani aytiladi.",
+    "grade": 7,
+    "subject": "uzbekistan_history",
+    "topic": "Eftaliylar",
+    "difficulty": 2,
+    "type": "single_choice",
+    "source": {
+      "book": "O‘zbekiston tarixi (IV asrdan – XIII asr boshlarigacha), 7-sinf, 2022",
+      "page": 18
+    }
+  },
+  {
+    "id": "UZ7-05-002",
+    "q": "Eftaliylar nomi qaysi shoh ismidan olingan?",
+    "a": [
+      "Eftalon",
+      "Kidar",
+      "Bumin",
+      "Afrig‘"
+    ],
+    "cor": 0,
+    "ex": "Darslikda nom «Eftalon» shoh ismidan kelib chiqqani qayd etiladi.",
+    "grade": 7,
+    "subject": "uzbekistan_history",
+    "topic": "Eftaliylar",
+    "difficulty": 2,
+    "type": "single_choice",
+    "source": {
+      "book": "O‘zbekiston tarixi (IV asrdan – XIII asr boshlarigacha), 7-sinf, 2022",
+      "page": 18
+    }
+  },
+  {
+    "id": "UZ7-05-003",
+    "q": "Eftalonni yana qanday nom bilan atashgan?",
+    "a": [
+      "Vaxshunvar",
+      "Istami",
+      "Xusrav",
+      "Pero‘z"
+    ],
+    "cor": 0,
+    "ex": "Darslikda Eftalon Vaxshunvar deb ham atalgan.",
+    "grade": 7,
+    "subject": "uzbekistan_history",
+    "topic": "Eftaliylar",
+    "difficulty": 2,
+    "type": "single_choice",
+    "source": {
+      "book": "O‘zbekiston tarixi (IV asrdan – XIII asr boshlarigacha), 7-sinf, 2022",
+      "page": 18
+    }
+  },
+  {
+    "id": "UZ7-05-004",
+    "q": "Eftaliylar davlatining dastlabki poytaxtlari sifatida qaysi shaharlar keltirilgan?",
+    "a": [
+      "Poykent va Varaxsha",
+      "Kat va Urganch",
+      "Binkat va O‘tror",
+      "Marv va Nishopur"
+    ],
+    "cor": 0,
+    "ex": "Darslik dastlabki poytaxtlar sifatida Buxoro yaqinidagi Poykent va Varaxshani keltiradi.",
+    "grade": 7,
+    "subject": "uzbekistan_history",
+    "topic": "Eftaliylar",
+    "difficulty": 2,
+    "type": "single_choice",
+    "source": {
+      "book": "O‘zbekiston tarixi (IV asrdan – XIII asr boshlarigacha), 7-sinf, 2022",
+      "page": 19
+    }
+  },
+  {
+    "id": "UZ7-05-005",
+    "q": "Eftaliylar davlati tarkibiga qaysi hududlar kirgan?",
+    "a": [
+      "O‘rta Osiyo, Sharqiy Turkiston, Afg‘oniston, Shimoliy Hindiston va hozirgi Pokiston",
+      "Faqat Xorazm va Choch",
+      "Faqat Eron va Mesopotamiya",
+      "Faqat Oltoy va Sibir"
+    ],
+    "cor": 0,
+    "ex": "Darslik eftaliylar davlatining hududlarini shu tarzda sanaydi.",
+    "grade": 7,
+    "subject": "uzbekistan_history",
+    "topic": "Eftaliylar",
+    "difficulty": 2,
+    "type": "single_choice",
+    "source": {
+      "book": "O‘zbekiston tarixi (IV asrdan – XIII asr boshlarigacha), 7-sinf, 2022",
+      "page": 19
+    }
+  },
+  {
+    "id": "UZ7-05-006",
+    "q": "Eftaliylar davlatida taxtga kim o‘tirgan?",
+    "a": [
+      "Suloladan loyiq deb topilgan kishi",
+      "Har doim hukmdorning katta o‘g‘li",
+      "Faqat xorijiy elchilar tanlagan kishi",
+      "Har yili qur’a bilan tanlangan kishi"
+    ],
+    "cor": 0,
+    "ex": "Darslikda taxt suloladan loyiq deb topilgan kishiga berilgani aytiladi.",
+    "grade": 7,
+    "subject": "uzbekistan_history",
+    "topic": "Eftaliylar",
+    "difficulty": 2,
+    "type": "single_choice",
+    "source": {
+      "book": "O‘zbekiston tarixi (IV asrdan – XIII asr boshlarigacha), 7-sinf, 2022",
+      "page": 19
+    }
+  },
+  {
+    "id": "UZ7-05-007",
+    "q": "Hukmdor nomzodini aniqlash va taqdim etishda kimlar qatnashgan?",
+    "a": [
+      "Sulola mo‘tabarlari va obro‘li a’yonlardan tuzilgan kengash",
+      "Faqat savdogarlar uyushmasi",
+      "Faqat xorijiy elchilar",
+      "Hunarmandlar bozori vakillari"
+    ],
+    "cor": 0,
+    "ex": "Darslikda bunday kengash mavjud bo‘lgani qayd etilgan.",
+    "grade": 7,
+    "subject": "uzbekistan_history",
+    "topic": "Eftaliylar",
+    "difficulty": 2,
+    "type": "single_choice",
+    "source": {
+      "book": "O‘zbekiston tarixi (IV asrdan – XIII asr boshlarigacha), 7-sinf, 2022",
+      "page": 19
+    }
+  },
+  {
+    "id": "UZ7-05-008",
+    "q": "Sosoniylar shohi Pero‘zning eftaliylarga qarshi yurishi qaysi yilda uning halokati bilan tugagan?",
+    "a": [
+      "484-yilda",
+      "456-yilda",
+      "552-yilda",
+      "651-yilda"
+    ],
+    "cor": 0,
+    "ex": "Darslikda Pero‘zning 484-yildagi urushi uning halokati bilan tugagani yozilgan.",
+    "grade": 7,
+    "subject": "uzbekistan_history",
+    "topic": "Eftaliylar",
+    "difficulty": 2,
+    "type": "single_choice",
+    "source": {
+      "book": "O‘zbekiston tarixi (IV asrdan – XIII asr boshlarigacha), 7-sinf, 2022",
+      "page": 19
+    }
+  },
+  {
+    "id": "UZ7-05-009",
+    "q": "Eftaliylar qaysi davlatlar bilan xalqaro savdoda faol qatnashgan?",
+    "a": [
+      "Xitoy, Hindiston, Eron va Vizantiya",
+      "Faqat Rim va Misr",
+      "Faqat Yaponiya va Koreya",
+      "Faqat Arabiston va Nubiya"
+    ],
+    "cor": 0,
+    "ex": "Darslik eftaliylarning Xitoy, Hindiston, Eron va Vizantiya bilan savdosini qayd etadi.",
+    "grade": 7,
+    "subject": "uzbekistan_history",
+    "topic": "Eftaliylar",
+    "difficulty": 2,
+    "type": "single_choice",
+    "source": {
+      "book": "O‘zbekiston tarixi (IV asrdan – XIII asr boshlarigacha), 7-sinf, 2022",
+      "page": 20
+    }
+  },
+  {
+    "id": "UZ7-05-010",
+    "q": "Ipak yo‘li savdosida sosoniy savdogarlari bilan raqobatda kimlar vositachi rolini o‘ynagan?",
+    "a": [
+      "Sug‘diylar",
+      "Kadivarlar",
+      "Chokarlar",
+      "Xioniylar"
+    ],
+    "cor": 0,
+    "ex": "Darslik sug‘diylarni savdoda vositachi rolida ko‘rsatadi.",
+    "grade": 7,
+    "subject": "uzbekistan_history",
+    "topic": "Eftaliylar",
+    "difficulty": 2,
+    "type": "single_choice",
+    "source": {
+      "book": "O‘zbekiston tarixi (IV asrdan – XIII asr boshlarigacha), 7-sinf, 2022",
+      "page": 20
+    }
+  },
+  {
+    "id": "UZ7-05-011",
+    "q": "Eftaliylar alifbosi qaysi yozuv asosida shakllangan?",
+    "a": [
+      "Baqtriya yozuvi",
+      "Lotin yozuvi",
+      "Kirill yozuvi",
+      "Skandinaviya runik yozuvi"
+    ],
+    "cor": 0,
+    "ex": "Darslikda eftaliylar alifbosi Baqtriya yozuvi asosida shakllangani aytiladi.",
+    "grade": 7,
+    "subject": "uzbekistan_history",
+    "topic": "Eftaliylar",
+    "difficulty": 2,
+    "type": "single_choice",
+    "source": {
+      "book": "O‘zbekiston tarixi (IV asrdan – XIII asr boshlarigacha), 7-sinf, 2022",
+      "page": 20
+    }
+  },
+  {
+    "id": "UZ7-05-012",
+    "q": "Darslikda eftaliylar alifbosi nechta harfdan iborat deb berilgan?",
+    "a": [
+      "25",
+      "18",
+      "31",
+      "40"
+    ],
+    "cor": 0,
+    "ex": "Darslikda alifbo 25 harfdan iborat deb ko‘rsatilgan.",
+    "grade": 7,
+    "subject": "uzbekistan_history",
+    "topic": "Eftaliylar",
+    "difficulty": 2,
+    "type": "single_choice",
+    "source": {
+      "book": "O‘zbekiston tarixi (IV asrdan – XIII asr boshlarigacha), 7-sinf, 2022",
+      "page": 20
+    }
+  },
+  {
+    "id": "UZ7-05-013",
+    "q": "Eftaliylar orasida asosiy e’tiqod qaysi bo‘lgan?",
+    "a": [
+      "Zardushtiylik",
+      "Faqat nasroniylik",
+      "Faqat yahudiylik",
+      "Faqat islom"
+    ],
+    "cor": 0,
+    "ex": "Darslikda eftaliylar asosan zardushtiylikka e’tiqod qilgani aytiladi.",
+    "grade": 7,
+    "subject": "uzbekistan_history",
+    "topic": "Eftaliylar",
+    "difficulty": 2,
+    "type": "single_choice",
+    "source": {
+      "book": "O‘zbekiston tarixi (IV asrdan – XIII asr boshlarigacha), 7-sinf, 2022",
+      "page": 21
+    }
+  },
+  {
+    "id": "UZ7-05-014",
+    "q": "Poykand arab manbalarida qanday nom bilan ta’riflangan?",
+    "a": [
+      "Madina at-tujjor — savdogarlar shahri",
+      "Dar al-ilm — ilm shahri",
+      "Madinat as-salam — tinchlik shahri",
+      "Qubbat al-Islom — islom gumbazi"
+    ],
+    "cor": 0,
+    "ex": "Darslik Poykandni «Madina at-tujjor», ya’ni «Savdogarlar shahri» deb ataydi.",
+    "grade": 7,
+    "subject": "uzbekistan_history",
+    "topic": "Eftaliylar",
+    "difficulty": 2,
+    "type": "single_choice",
+    "source": {
+      "book": "O‘zbekiston tarixi (IV asrdan – XIII asr boshlarigacha), 7-sinf, 2022",
+      "page": 21
+    }
+  },
+  {
+    "id": "UZ7-05-015",
+    "q": "Darslikda IV asrdan boshlab Turonning yirik madaniy va iqtisodiy markazlaridan biri deb qaysi shahar ko‘rsatilgan?",
+    "a": [
+      "Buxoro",
+      "Kat",
+      "Poykent",
+      "Zartepa"
+    ],
+    "cor": 0,
+    "ex": "Darslik Buxoroni IV asrdan boshlab yirik madaniy va iqtisodiy markazlardan biri deb ta’riflaydi.",
+    "grade": 7,
+    "subject": "uzbekistan_history",
+    "topic": "Eftaliylar",
+    "difficulty": 2,
+    "type": "single_choice",
+    "source": {
+      "book": "O‘zbekiston tarixi (IV asrdan – XIII asr boshlarigacha), 7-sinf, 2022",
+      "page": 22
+    }
+  }
+]
