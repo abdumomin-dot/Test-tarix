@@ -1,0 +1,47 @@
+{
+  "version": "0.1.0",
+  "description": "Tarix Databank pilot: 7-sinf O‘zbekiston tarixi",
+  "language": "uz",
+  "sets": [
+    {
+      "id": "01-ajdodlar-merosi",
+      "grade": 7,
+      "subject": "uzbekistan_history",
+      "topic": "Ajdodlarimizning ma’naviy qadriyatlari – jahon sivilizatsiyasi asoslaridan biri",
+      "file": "uz7/01-ajdodlar-merosi.json",
+      "count": 10
+    },
+    {
+      "id": "02-turmush-tarzi",
+      "grade": 7,
+      "subject": "uzbekistan_history",
+      "topic": "IV–VII asrlarda mamlakatimiz xalqlarining turmush tarzi",
+      "file": "uz7/02-turmush-tarzi.json",
+      "count": 10
+    },
+    {
+      "id": "03-xorazm",
+      "grade": 7,
+      "subject": "uzbekistan_history",
+      "topic": "IV–VII asrlarda Xorazm",
+      "file": "uz7/03-xorazm.json",
+      "count": 10
+    },
+    {
+      "id": "04-xioniylar-kidariylar",
+      "grade": 7,
+      "subject": "uzbekistan_history",
+      "topic": "IV–V asrlarda xioniylar va kidariylar",
+      "file": "uz7/04-xioniylar-kidariylar.json",
+      "count": 10
+    },
+    {
+      "id": "05-eftaliylar",
+      "grade": 7,
+      "subject": "uzbekistan_history",
+      "topic": "Eftaliylar",
+      "file": "uz7/05-eftaliylar.json",
+      "count": 15
+    }
+  ]
+}
